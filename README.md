@@ -1,13 +1,12 @@
 Jharold Alonso Mayorga Villena
 
 ## About Me
-Hello! I'm Jharold Alonso Mayorga Villena, a passionate computer science student with a focus on web development and machine learning. Here are some details about me:
+Hello! I'm Jharold Alonso Mayorga Villena, a passionate computer science student with a focus on web development, machine learning, and deep learning. Here are some details about me:
 
-- 🌱 I'm currently studying Computer Science at National University of Saint Augustine.
-- 💡 I have intermediate knowledge in C++, C#, and Java.
-- 🚀 My main focus is on web development, especially technologies like HTML, CSS, and JavaScript.
-- 🎮 In my free time, I enjoy both video games and competitive programming.
-- 📫 You can find me on Facebook or Twitter.
+🌱 I'm currently studying Computer Science at National University of Saint Augustine.
+💡 I have intermediate knowledge in C++, C#, and Java.
+🚀 My main focus is on web development, especially technologies like HTML, CSS, JavaScript, and frameworks such as React, Vue.js, and ASP.NET Core. I am particularly passionate about deep learning and enjoy developing programs that leverage neural networks and machine learning algorithms.
+🎮 In my free time, I enjoy both video games and competitive programming.
 
 ## Projects
 Here are some projects I've worked on:
