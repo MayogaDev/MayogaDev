@@ -19,8 +19,44 @@
 
 ---
 
-## 🧑‍💻 About Me
-I’m **Jharold Alonso Mayorga Villena**, a software developer and researcher dedicated to creating cutting-edge solutions that bridge **technology** and **social good**. My expertise ranges from **AI systems** and **immersive gaming** to **real-time VR applications**. Every project reflects my commitment to innovation, accessibility, and inclusivity.
+## 🌟 About Me
+
+<p align="center">
+    <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" alt="Developer Animation">
+</p>
+
+Hi there! 👋 I'm **Jharold Alonso Mayorga Villena**, a dedicated and innovative software developer, passionate about solving real-world problems through technology. My journey in software development combines creativity, logic, and a mission to make an impact.
+
+### 🎯 **Core Values**  
+- 🌍 **Social Impact:** I believe technology should break barriers and foster inclusion, which is why many of my projects focus on accessibility and equity.  
+- 🚀 **Innovation:** I constantly explore the latest trends in AI, VR, and software architecture to create groundbreaking solutions.  
+- 🔍 **Continuous Learning:** In the ever-changing world of tech, I strive to stay ahead by learning and implementing cutting-edge tools and methodologies.
+
+---
+
+### 📚 **My Journey**  
+- 🎓 **Education:**  
+  - Bachelor’s Degree in Computer Science, **Universidad Nacional de San Agustín de Arequipa**.  
+  - Specialized coursework in **Artificial Intelligence**, **Game Development**, and **Scalable Software Architectures**.  
+
+- 🌐 **Professional Highlights:**  
+  - Developed a recommendation system using **Fuzzy Logic**, which was featured in an IEEE publication.  
+  - Created **GalaxyVenture**, a 3D planetary exploration game that was showcased in the **NASA International Space Apps Challenge 2023**.  
+  - Implemented **Peruvian Sign Language Recognition**, leveraging **MediaPipe** and **LSTM** for real-time translation.  
+
+- 🎮 **Hobbies & Interests:**  
+  - Building immersive VR games that merge education and entertainment.  
+  - Exploring the realms of space through coding simulations.  
+  - Passionate about **digital art** and 3D modeling using Blender.  
+
+---
+
+### 💡 **What Drives Me?**  
+<p align="center">
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" alt="Idea Animation">
+</p>
+
+I'm driven by a desire to create technology that matters. Whether it’s a system to prevent road accidents, a virtual reality game for training, or a tool to empower communities with disabilities, my goal is always the same: **to make life easier, better, and more connected**. 
 
 ---
 
