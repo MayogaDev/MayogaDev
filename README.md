@@ -12,7 +12,7 @@
     <a href="mailto:jmayorgav@unsa.edu.pe">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://mayogadev.github.io/">
+    <a href="https://github.com/MayogaDev/MayogaDev/blob/main/README.md">
         <img src="https://img.shields.io/badge/Portfolio-FD4B5C?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
     </a>
 </p>
