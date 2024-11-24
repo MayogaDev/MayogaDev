@@ -47,7 +47,6 @@ Hi there! 👋 I'm **Jharold Alonso Mayorga Villena**, a dedicated and innovativ
 - 🎮 **Hobbies & Interests:**  
   - Building immersive VR games that merge education and entertainment.  
   - Exploring the realms of space through coding simulations.  
-  - Passionate about **digital art** and 3D modeling using Blender.  
 
 ---
 
