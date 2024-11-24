@@ -208,7 +208,8 @@ An interactive VR game for training fast-food employees in multitasking and task
 
 ---
 
-## 🔗 Let's Connect!
+### 🔗 **Connect With Me!**
+Feel free to reach out—I’d love to connect and collaborate on exciting projects.  
 <p align="center">
     <a href="https://www.linkedin.com/in/jharold-mayorga">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -220,6 +221,11 @@ An interactive VR game for training fast-food employees in multitasking and task
         <img src="https://img.shields.io/badge/Portfolio-FD4B5C?style=for-the-badge&logo=google-chrome&logoColor=white" />
     </a>
 </p>
+
+- 🌐 **Portfolio Website:** Coming soon!  
+- 💼 **LinkedIn:** [Connect with me here](https://www.linkedin.com/in/jharold-mayorga/)  
+- ✉️ **Email:** jmayorgav@unsa.edu.pe  
+- 🎮 **Check Out My Games and Proyects:** [GalaxyVenture](https://mayogadev.github.io/GalaxyVenture-Simulacion-3D-del-Sistema-Solar/) | [Take a Cup](https://mayogadev.github.io/Take-a-Cup-Una-Experiencia-Educativa-en-Realidad-Virtual/)
 
 ---
 
