@@ -1,78 +1,116 @@
-# 🌟 Welcome to My GitHub Profile! 🌟  
-I’m **Jharold Alonso Mayorga Villena**, a passionate software developer, researcher, and creator of technological solutions that merge innovation with social purpose. Every project you find here reflects my commitment to using technology to make a real difference in people's lives.
+<h1 align="center">🌟 Welcome to My GitHub Profile! 🌟</h1>
+
+<p align="center">
+  <i>Creating impactful software solutions with a mix of innovation, intelligence, and social purpose.</i><br>
+  <b>💡 Passionate about leveraging technology to connect, empower, and inspire! 💡</b>
+</p>
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/jharold-mayorga">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:jmayorgav@unsa.edu.pe">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://mayogadev.github.io/">
+        <img src="https://img.shields.io/badge/Portfolio-FD4B5C?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    </a>
+</p>
 
 ---
 
-## 🧑‍💻 **Who Am I?**  
-- 🎓 **Education:** Specialist in Artificial Intelligence, Game Development, and Scalable Software Architectures.  
-- 🛠️ **Professional Focus:** Building intelligent systems, immersive games, and inclusive technological solutions.  
-- 🌐 **Mission:** Bridging technology with social impact by promoting accessibility, inclusion, and innovation.
+## 🧑‍💻 About Me
+I’m **Jharold Alonso Mayorga Villena**, a software developer and researcher dedicated to creating cutting-edge solutions that bridge **technology** and **social good**. My expertise ranges from **AI systems** and **immersive gaming** to **real-time VR applications**. Every project reflects my commitment to innovation, accessibility, and inclusivity.
 
 ---
 
-## 🏆 **Featured Projects**  
+## 🏆 Featured Projects
 
-### 📍 **Recommendation System For Tourist Routes Using Fuzzy Logic In The Arequipa City**  
+### 📍 Recommendation System for Tourist Routes in Arequipa  
 📅 *April 2021 - October 2021*  
-Developed a fuzzy logic-based system to personalize tourist routes based on user ratings and budgets. *Published in an international scientific journal.*
-Paper published in IEEE Xplore: [https://doi.org/10.1109/Colcom56784.2022.10107831]
+An intelligent fuzzy logic-based system that generates personalized tourist routes.  
+🔗 **Published in IEEE Xplore:** [View Paper](https://doi.org/10.1109/Colcom56784.2022.10107831)  
 
-### 🌐 **University Social Network: UNIverse**  
+---
+
+### 🌐 University Social Network: UNIverse  
 📅 *May 2023 - August 2023*  
-An interactive platform connecting university students with features like messaging, dynamic posts, and user management.
+A collaborative platform that connects students with advanced social features like dynamic posts and messaging.
 
-### 🚀 **GalaxyVenture**  
+---
+
+### 🚀 GalaxyVenture: 3D Solar System Simulation  
 📅 *August 2023 - December 2023*  
-A 3D planetary exploration game presented at the **NASA International Space Apps Challenge 2023**. 
+A planetary exploration game showcased at **NASA International Space Apps Challenge 2023**.  
+🌐 [Explore GalaxyVenture](https://mayogadev.github.io/GalaxyVenture/)  
 
-### 🩺 **Telepsychiatry Platform: Heresi System**  
+---
+
+### 🩺 Telepsychiatry Platform: Heresi System  
 📅 *May 2024 - August 2024*  
-A remote platform for mental health consultations, designed with **Domain-Driven Design (DDD)** architecture and strengthened by quality tools like SonarQube and OWASP ZAP.
+Remote mental health consultation platform with a **DDD architecture** and robust quality assurance using SonarQube and OWASP ZAP.
 
-### 🚘 **Early Detection of Driver Drowsiness**  
+---
+
+### 🚘 Early Detection of Driver Drowsiness  
 📅 *April 2024 - August 2024*  
-An intelligent system to prevent traffic accidents, achieving 95% accuracy using Vision Transformers (ViT).
+An intelligent system using **Vision Transformers (ViT)** for real-time monitoring to prevent accidents.
 
-### 🖐️ **Automatic Recognition of Peruvian Sign Language**  
+---
+
+### 🖐️ Automatic Recognition of Peruvian Sign Language  
 📅 *April 2024 - Present*  
-An ongoing project to translate Peruvian Sign Language in real-time using LSTM and MediaPipe, with a significant social impact.  
+Real-time Peruvian Sign Language translation system powered by MediaPipe and LSTM, addressing accessibility challenges.
 
-### 🕹️ **Take a Coffee - Virtual Reality Simulation**  
+---
+
+### ☕ Take a Coffee - Virtual Reality Simulation  
 📅 *June 2024 - Present*  
-An interactive virtual reality game developed in Unity, focused on human-computer interaction. Explore the beta version here: [Take a Coffee](https://mayogadev.github.io/Take-a-Coffe/).  
+An interactive VR game for training fast-food employees in multitasking and task efficiency.  
+🌐 [Try the Beta Version](https://mayogadev.github.io/Take-a-Coffe/)  
 
 ---
 
-## 💻 **Technologies and Tools**  
+## 💻 Tech Stack & Tools
 
-| **Languages**           | Python, C#, JavaScript, C++  |
-|--------------------------|-----------------------------|
-| **Frameworks/Tools**     | Unity, TensorFlow, React.js, Node.js, MediaPipe, OpenCV |
-| **Databases**            | SQL Server, MongoDB         |
-| **DevOps and QA**        | SonarQube, OWASP ZAP, Postman, Swagger |
-| **Virtual Reality/3D**   | Unity, Three.js, Blender    |
-
----
-
-## 🎯 **My Core Skills**  
-- 🔍 Designing and implementing scalable systems with **Domain-Driven Design (DDD)**.  
-- 🎮 Developing immersive games and simulations.  
-- 🤖 Building intelligent models with deep learning and neural networks.  
-- ✅ Conducting quality and security testing using advanced tools like SonarQube and OWASP ZAP.  
-- 🌐 Integrating real-time systems for web and VR applications.
+| **Languages**           | Python, C#, JavaScript, C++, HTML5, CSS3  |
+|--------------------------|------------------------------------------|
+| **Frameworks & Tools**   | Unity, TensorFlow, React.js, MediaPipe, OpenCV |
+| **3D/VR Development**    | Blender, Three.js, Oculus VR             |
+| **Backend**              | Node.js, Django, .NET Core              |
+| **DevOps & QA**          | SonarQube, OWASP ZAP, Postman, Swagger   |
+| **Databases**            | SQL Server, MongoDB                     |
 
 ---
 
-## 🌟 **My Purpose**  
-To build technological solutions that connect people, break down social barriers, and foster inclusive development. Every line of code aims to make a tangible impact on people’s lives.
+## 🎯 Core Skills
+
+- 🧠 Expertise in **AI-driven models** and neural networks for real-world applications.  
+- 🎮 Immersive game and VR development using **Unity** and **C#**.  
+- 🔍 Robust design with **Domain-Driven Design (DDD)** for scalable systems.  
+- 🛡️ Comprehensive quality assurance using **SonarQube** and **OWASP ZAP**.  
+- 🌐 Crafting real-time, interactive web applications with **React.js** and **Three.js**.
 
 ---
 
-## 🔗 **Connect With Me**  
-- 🌐 **LinkedIn:** [www.linkedin.com/in/jharold-mayorga]  
-- ✉️ **Email:** [jmayorgav@unsa.edu.pe]  
-- 🌟 Explore my projects here on **GitHub**.
+## 🌟 Personal Mission
+"To create inclusive, impactful software solutions that address real-world challenges through innovation and technology."
 
 ---
 
-✨ *“The limits of technology lie where we stop imagining.”* ✨  
+## 🔗 Let's Connect!
+<p align="center">
+    <a href="https://www.linkedin.com/in/jharold-mayorga">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:jmayorgav@unsa.edu.pe">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://mayogadev.github.io/">
+        <img src="https://img.shields.io/badge/Portfolio-FD4B5C?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    </a>
+</p>
+
+---
+
+✨ *“The limits of technology lie where we stop imagining.”* ✨
