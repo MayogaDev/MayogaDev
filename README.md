@@ -45,8 +45,9 @@ Hi there! 👋 I'm **Jharold Alonso Mayorga Villena**, a dedicated and innovativ
   - Implemented **Peruvian Sign Language Recognition**, leveraging **MediaPipe** and **LSTM** for real-time translation.  
 
 - 🎮 **Hobbies & Interests:**  
-  - Building immersive VR games that merge education and entertainment.  
-  - Exploring the realms of space through coding simulations.  
+  - **Gaming:** I enjoy playing a wide range of video games for both relaxation and inspiration in game development.  
+  - **Competitive Programming:** I thrive on solving algorithmic challenges and participating in coding contests.  
+  - **Virtual Reality & 3D Modeling:** Experimenting with immersive VR experiences and creating digital art using Blender.  
 
 ---
 
