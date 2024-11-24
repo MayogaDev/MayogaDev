@@ -25,29 +25,36 @@
     <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" alt="Developer Animation">
 </p>
 
-Hi there! 👋 I'm **Jharold Alonso Mayorga Villena**, a dedicated and innovative software developer, passionate about solving real-world problems through technology. My journey in software development combines creativity, logic, and a mission to make an impact.
+Hi there! 👋 I'm **Jharold Alonso Mayorga Villena**, a dedicated **Software Developer**, **Data Scientist**, and **Machine Learning Enthusiast** passionate about solving real-world problems through innovative technology. My journey combines creativity, analytical thinking, and a mission to drive impactful change in the tech industry.
+
+---
 
 ### 🎯 **Core Values**  
-- 🌍 **Social Impact:** I believe technology should break barriers and foster inclusion, which is why many of my projects focus on accessibility and equity.  
-- 🚀 **Innovation:** I constantly explore the latest trends in AI, VR, and software architecture to create groundbreaking solutions.  
-- 🔍 **Continuous Learning:** In the ever-changing world of tech, I strive to stay ahead by learning and implementing cutting-edge tools and methodologies.
+- 🌍 **Social Impact:** I believe technology should break barriers and foster inclusion, which is why many of my projects focus on accessibility, equity, and empowerment.  
+- 🚀 **Innovation:** Constantly exploring the latest trends in **AI**, **Machine Learning**, and **VR** to create groundbreaking solutions.  
+- 🔍 **Continuous Learning:** The ever-evolving tech landscape inspires me to stay ahead by mastering advanced tools, algorithms, and methodologies.
 
 ---
 
 ### 📚 **My Journey**  
 - 🎓 **Education:**  
   - Bachelor’s Degree in Computer Science, **Universidad Nacional de San Agustín de Arequipa**.  
-  - Specialized coursework in **Artificial Intelligence**, **Game Development**, and **Scalable Software Architectures**.  
+  - Specialized in **Artificial Intelligence**, **Game Development**, **Data Science**, **Machine Learning**, and **Scalable Software Architectures**.  
 
 - 🌐 **Professional Highlights:**  
-  - Developed a recommendation system using **Fuzzy Logic**, which was featured in an IEEE publication.  
-  - Created **GalaxyVenture**, a 3D planetary exploration game that was showcased in the **NASA International Space Apps Challenge 2023**.  
-  - Implemented **Peruvian Sign Language Recognition**, leveraging **MediaPipe** and **LSTM** for real-time translation.  
+  - Published **scientific articles in international journals**, showcasing innovative solutions like recommendation systems and intelligent detection systems.  
+  - Designed a **Data Science pipeline** for analyzing patterns in user behavior for a recommendation system, published on **IEEE Xplore**.  
+  - Developed **GalaxyVenture**, a 3D planetary exploration game showcased at the **NASA International Space Apps Challenge 2023**.  
+  - Implemented **Peruvian Sign Language Recognition**, leveraging advanced **LSTM** models and **MediaPipe** for real-time translations.  
+  - Built an **Early Detection of Driver Drowsiness** system using **Vision Transformers (ViT)**, achieving 95% accuracy in preventing road accidents.  
+  - Developed numerous **Machine Learning models** with expertise in deep learning, neural networks, and predictive analytics.
 
 - 🎮 **Hobbies & Interests:**  
-  - **Gaming:** I enjoy playing a wide range of video games for both relaxation and inspiration in game development.  
-  - **Competitive Programming:** I thrive on solving algorithmic challenges and participating in coding contests.  
-  - **Virtual Reality & 3D Modeling:** Experimenting with immersive VR experiences and creating digital art using Blender.  
+  - **Machine Learning Projects:** I enjoy experimenting with new algorithms and fine-tuning models for optimal performance.  
+  - **Data Science:** Cleaning, visualizing, and modeling complex datasets is my go-to activity for creating actionable insights.  
+  - **Gaming:** Avid gamer who loves exploring game mechanics for inspiration in development.  
+  - **Competitive Programming:** Solving algorithmic challenges is my way of sharpening problem-solving skills.  
+  - **Virtual Reality:** Experimenting with immersive VR experiences.
 
 ---
 
