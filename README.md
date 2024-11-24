@@ -78,7 +78,7 @@ A collaborative platform that connects students with advanced social features li
 ### 🚀 GalaxyVenture: 3D Solar System Simulation  
 📅 *August 2023 - December 2023*  
 A planetary exploration game showcased at **NASA International Space Apps Challenge 2023**.  
-🌐 [Explore GalaxyVenture](https://mayogadev.github.io/GalaxyVenture/)  
+🌐 [Explore GalaxyVenture](https://mayogadev.github.io/GalaxyVenture-Simulacion-3D-del-Sistema-Solar/)  
 
 ---
 
@@ -103,7 +103,7 @@ Real-time Peruvian Sign Language translation system powered by MediaPipe and LST
 ### ☕ Take a Coffee - Virtual Reality Simulation  
 📅 *June 2024 - Present*  
 An interactive VR game for training fast-food employees in multitasking and task efficiency.  
-🌐 [Try the Beta Version](https://mayogadev.github.io/Take-a-Coffe/)  
+🌐 [Try the Beta Version](https://mayogadev.github.io/Take-a-Cup-Una-Experiencia-Educativa-en-Realidad-Virtual/)  
 
 ---
 
@@ -216,7 +216,7 @@ An interactive VR game for training fast-food employees in multitasking and task
     <a href="mailto:jmayorgav@unsa.edu.pe">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://mayogadev.github.io/">
+    <a href="https://github.com/MayogaDev">
         <img src="https://img.shields.io/badge/Portfolio-FD4B5C?style=for-the-badge&logo=google-chrome&logoColor=white" />
     </a>
 </p>
