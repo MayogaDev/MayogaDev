@@ -1,8 +1,8 @@
 <h1 align="center">🌟 Welcome to My GitHub Profile! 🌟</h1>
 
 <p align="center">
-  <i>Creating impactful software solutions with a mix of innovation, intelligence, and social purpose.</i><br>
-  <b>💡 Passionate about leveraging technology to connect, empower, and inspire! 💡</b>
+  <i>Building scalable data pipelines and impactful software solutions with innovation and purpose.</i><br>
+  <b>💡 Data Engineer | GCP | Python | SQL | ETL/ELT 💡</b>
 </p>
 
 <p align="center">
@@ -25,33 +25,34 @@
     <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" alt="Developer Animation">
 </p>
 
-Hi there! 👋 I'm **Jharold Alonso Mayorga Villena**, a dedicated **Software Developer**, **Data Scientist**, and **Machine Learning Enthusiast** passionate about solving real-world problems through innovative technology. My journey combines creativity, analytical thinking, and a mission to drive impactful change in the tech industry.
+Hi there! 👋 I'm **Jharold Alonso Mayorga Villena**, a **Data Engineer** with over 3 years of experience building scalable, efficient data pipelines in GCP. I specialize in tools like BigQuery, Dataflow, and Cloud Functions, with a strong background in Python, advanced SQL, and ETL development. I'm also passionate about software development, AI, and creating technology that drives real impact.
 
 ---
 
 ### 🎯 **Core Values**  
 - 🌍 **Social Impact:** I believe technology should break barriers and foster inclusion, which is why many of my projects focus on accessibility, equity, and empowerment.  
-- 🚀 **Innovation:** Constantly exploring the latest trends in **AI**, **Machine Learning**, and **VR** to create groundbreaking solutions.  
+- 🚀 **Innovation:** Constantly exploring the latest trends in **Data Engineering**, **AI**, **Machine Learning**, and **Cloud Computing** to create groundbreaking solutions.  
 - 🔍 **Continuous Learning:** The ever-evolving tech landscape inspires me to stay ahead by mastering advanced tools, algorithms, and methodologies.
 
 ---
 
 ### 📚 **My Journey**  
 - 🎓 **Education:**  
-  - Bachelor’s Degree in Computer Science, **Universidad Nacional de San Agustín de Arequipa**.  
-  - Specialized in **Artificial Intelligence**, **Game Development**, **Data Science**, **Machine Learning**, and **Scalable Software Architectures**.  
+  - Bachelor's Degree in Computer Science, **Universidad Nacional de San Agustín de Arequipa** (2021 - 2025).  
+  - Specialized in **Data Engineering**, **Artificial Intelligence**, **Data Science**, **Machine Learning**, and **Scalable Software Architectures**.  
 
-- 🌐 **Professional Highlights:**  
-  - Published **scientific articles in international journals**, showcasing innovative solutions like recommendation systems and intelligent detection systems.  
-  - Designed a **Data Science pipeline** for analyzing patterns in user behavior for a recommendation system, published on **IEEE Xplore**.  
+- 🌐 **Professional Experience:**  
+  - **Ferreyros, Peru -- Data Engineer** *(Apr 2025 - Mar 2026)*: Architected ETL/ELT pipelines processing 500K+ daily records using BigQuery, Cloud Functions, and Python. Automated ingestion from 8+ REST APIs, managed GCP infrastructure with Terraform.  
+  - **GAMAO Ingeniería & Construcción SAC, Peru -- Data Engineer** *(Nov 2023 - Mar 2025)*: Developed end-to-end ETL pipelines ingesting supply data into BigQuery. Engineered Dataform models driving 15% operational cost savings.  
+  - **DataGeek, Remote -- Data Engineer** *(Jun 2022 - Oct 2023)*: Consolidated 5+ data sources into BigQuery, cutting manual reporting by 60%. Designed Looker Studio dashboards for budget variance analysis.  
+  - Published **scientific articles in international journals**, including **IEEE Xplore**.  
   - Developed **GalaxyVenture**, a 3D planetary exploration game showcased at the **NASA International Space Apps Challenge 2023**.  
   - Implemented **Peruvian Sign Language Recognition**, leveraging advanced **LSTM** models and **MediaPipe** for real-time translations.  
-  - Built an **Early Detection of Driver Drowsiness** system using **Vision Transformers (ViT)**, achieving 95% accuracy in preventing road accidents.  
-  - Developed numerous **Machine Learning models** with expertise in deep learning, neural networks, and predictive analytics.
+  - Built an **Early Detection of Driver Drowsiness** system using **Vision Transformers (ViT)**, achieving 95% accuracy.  
 
 - 🎮 **Hobbies & Interests:**  
-  - **Machine Learning Projects:** I enjoy experimenting with new algorithms and fine-tuning models for optimal performance.  
-  - **Data Science:** Cleaning, visualizing, and modeling complex datasets is my go-to activity for creating actionable insights.  
+  - **Data Engineering:** Building reliable pipelines and optimizing data workflows.  
+  - **Machine Learning Projects:** Experimenting with new algorithms and fine-tuning models.  
   - **Gaming:** Avid gamer who loves exploring game mechanics for inspiration in development.  
   - **Competitive Programming:** Solving algorithmic challenges is my way of sharpening problem-solving skills.  
   - **Virtual Reality:** Experimenting with immersive VR experiences.
@@ -63,11 +64,25 @@ Hi there! 👋 I'm **Jharold Alonso Mayorga Villena**, a dedicated **Software De
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" alt="Idea Animation">
 </p>
 
-I'm driven by a desire to create technology that matters. Whether it’s a system to prevent road accidents, a virtual reality game for training, or a tool to empower communities with disabilities, my goal is always the same: **to make life easier, better, and more connected**. 
+I'm driven by a desire to create technology that matters. Whether it's a scalable data pipeline serving 50+ stakeholders, a system to prevent road accidents, or a tool to empower communities with disabilities, my goal is always the same: **to make life easier, better, and more connected**. 
 
 ---
 
 ## 🏆 Featured Projects
+
+### 📊 Financial Market Data Pipeline
+📅 *2025*  
+Automated ETL pipeline ingesting 50K+ records/month from Alpha Vantage API via Cloud Scheduler and Cloud Functions, transformed in Dataform into analytics models. Infrastructure deployed with Terraform and CI/CD via GitHub Actions.  
+`Cloud Scheduler` `Cloud Functions` `BigQuery` `Dataform` `Terraform` `Looker Studio`
+
+---
+
+### ⚡ Real-Time Event Streaming Platform
+📅 *2024*  
+Streaming pipeline using Pub/Sub for event ingestion and Apache Beam on Dataflow for real-time transformations into BigQuery. Orchestrated with Cloud Composer (Airflow) and containerized with Docker.  
+`Pub/Sub` `Dataflow` `Apache Beam` `BigQuery` `Cloud Composer` `Docker`
+
+---
 
 ### 📍 Recommendation System for Tourist Routes in Arequipa  
 📅 *April 2021 - October 2021*  
@@ -116,29 +131,45 @@ An interactive VR game for training fast-food employees in multitasking and task
 
 ## 💻 Tech Stack & Tools
 
-| **Languages**           | Python, C#, JavaScript, C++, HTML5, CSS3  |
-|--------------------------|------------------------------------------|
-| **Frameworks & Tools**   | Unity, TensorFlow, React.js, MediaPipe, OpenCV |
-| **3D/VR Development**    | Blender, Three.js, Oculus VR             |
-| **Backend**              | Node.js, Django, .NET Core              |
-| **DevOps & QA**          | SonarQube, OWASP ZAP, Postman, Swagger   |
-| **Databases**            | SQL Server, MongoDB                     |
+| **Languages**           | Python, SQL, C#, JavaScript, C++, HTML5, CSS3, Bash  |
+|--------------------------|------------------------------------------------------|
+| **Data Engineering**     | BigQuery, Dataform, dbt, Apache Spark, PySpark, Pandas |
+| **Cloud (GCP)**          | Cloud Functions, Cloud Run, Dataflow, Pub/Sub, Cloud Composer, Cloud Scheduler, Cloud Workflows |
+| **Infrastructure**       | Terraform, Docker, GitHub Actions, CI/CD             |
+| **BI & Visualization**   | Looker Studio, Power BI                              |
+| **Databases**            | BigQuery, Snowflake, Databricks, PostgreSQL, MySQL   |
+| **Frameworks & Tools**   | Unity, TensorFlow, React.js, MediaPipe, OpenCV, Flask |
+| **3D/VR Development**    | Blender, Three.js, Oculus VR                         |
+| **Backend**              | Node.js, Django, .NET Core                           |
+| **DevOps & QA**          | SonarQube, OWASP ZAP, Postman, Swagger               |
+
+### Cloud & Data Engineering
+<p align="center">
+    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+    <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" />
+    <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+    <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+    <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+</p>
+
+---
 
 ### Programming Languages
 <p align="center">
-    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-    <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
 
 ---
@@ -161,16 +192,27 @@ An interactive VR game for training fast-food employees in multitasking and task
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
     <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dot-net&logoColor=white" />
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 </p>
 
 ---
 
 ### Databases
 <p align="center">
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" />
+    <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
     <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
     <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+---
+
+### BI & Visualization
+<p align="center">
+    <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
 ---
@@ -183,12 +225,14 @@ An interactive VR game for training fast-food employees in multitasking and task
     <img src="https://img.shields.io/badge/MediaPipe-FF9900?style=for-the-badge&logo=mediapipe&logoColor=white" />
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
     <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
     <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white" />
     <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
     <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" />
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 </p>
 
 ---
@@ -213,6 +257,7 @@ An interactive VR game for training fast-food employees in multitasking and task
 
 ## 🎯 Core Skills
 
+- 📊 Building **scalable ETL/ELT pipelines** on GCP with BigQuery, Cloud Functions, and Dataflow.  
 - 🧠 Expertise in **AI-driven models** and neural networks for real-world applications.  
 - 🎮 Immersive game and VR development using **Unity** and **C#**.  
 - 🔍 Robust design with **Domain-Driven Design (DDD)** for scalable systems.  
@@ -227,7 +272,7 @@ An interactive VR game for training fast-food employees in multitasking and task
 ---
 
 ### 🔗 **Connect With Me!**
-Feel free to reach out—I’d love to connect and collaborate on exciting projects.  
+Feel free to reach out—I'd love to connect and collaborate on exciting projects.  
 <p align="center">
     <a href="https://www.linkedin.com/in/jharold-mayorga">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -243,8 +288,8 @@ Feel free to reach out—I’d love to connect and collaborate on exciting proje
 - 🌐 **Portfolio Website:** Coming soon!  
 - 💼 **LinkedIn:** [Connect with me here](https://www.linkedin.com/in/jharold-mayorga/)  
 - ✉️ **Email:** jmayorgav@unsa.edu.pe  
-- 🎮 **Check Out My Games and Proyects:** [GalaxyVenture](https://mayogadev.github.io/GalaxyVenture-Simulacion-3D-del-Sistema-Solar/) | [Take a Cup](https://mayogadev.github.io/Take-a-Cup-Una-Experiencia-Educativa-en-Realidad-Virtual/)
+- 🎮 **Check Out My Games and Projects:** [GalaxyVenture](https://mayogadev.github.io/GalaxyVenture-Simulacion-3D-del-Sistema-Solar/) | [Take a Cup](https://mayogadev.github.io/Take-a-Cup-Una-Experiencia-Educativa-en-Realidad-Virtual/)
 
 ---
 
-✨ *“The limits of technology lie where we stop imagining.”* ✨
+✨ *"The quality of your data determines the quality of your decisions."* ✨
